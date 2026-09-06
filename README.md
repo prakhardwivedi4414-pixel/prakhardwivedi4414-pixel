@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="assets/banner.png" alt="Header Banner" width="100%">
+</p>
+<p align="center">
   <img src="./assets/header.svg" width="100%">
 </p>
 <br>
