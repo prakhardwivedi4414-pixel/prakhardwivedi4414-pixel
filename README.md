@@ -1,11 +1,6 @@
-<div align="center">
-
-# 👋 Hi, I'm Prakhar Dwivedi
-
-### Aspiring Software Engineer
-
-**C++ • Data Structures & Algorithms • Full-Stack Development • AI/ML • Computer Systems**
-
+<p align="center">
+  <img src="./assets/header.svg" width="100%">
+</p>
 <br>
 
 > Building software. Understanding systems. Solving problems.
