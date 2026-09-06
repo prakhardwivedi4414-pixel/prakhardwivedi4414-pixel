@@ -198,3 +198,8 @@ Feel free to explore my repositories, open an issue or connect with me professio
 ### `while(alive) { learn(); build(); improve(); }`
 
 </div>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/prakhardwivedi4414-pixel/prakhardwivedi4414-pixel/gh-pages/github-contribution-grid-snake-dark.svg" />
+
+</div>
